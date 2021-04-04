@@ -1,12 +1,12 @@
 // ==UserScript==
 // @name         Sim Companies $/hour
 // @namespace    jonducrou
-// @version      0.1
+// @version      0.2
 // @description  Shows the Profit/Hour as prices are adjusted.
 // @author       jonducrou
 // @match        https://www.simcompanies.com/b/*
 // @grant        none
-// @updateURL
+// @updateURL    https://github.com/jonducrou/turbo-rotary-phone/raw/main/simcompanies/profit-per-hour.user.js
 // ==/UserScript==
 
 
